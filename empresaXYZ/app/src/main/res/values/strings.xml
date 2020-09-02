@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">empresaXYZ</string>
+    <string name="titulo">EmpresaXYZ</string>
+    <string name="tipos">Tipos de zapatos</string>
+    <string name="sexo">Sexo</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="zapatilla">Zapatilla</string>
+    <string name="clasico">Clásico</string>
+    <string name="productos">Productos</string>
+    <string name="nike">Nike</string>
+    <string name="adidas">Adidas</string>
+    <string name="puma">Puma</string>
+    <string name="nike_cantidad">cantidad:</string>
+    <string name="adidas_cantidad">cantidad:</string>
+    <string name="puma_cantidad">cantidad:</string>
+    <string name="calcular">Calcular monto</string>
+    <string name="numero0">0</string>
+    <string name="pesos">Precio: $</string>
+    <string name="resultado">El monto total a pagar es de: $</string>
+
+</resources>

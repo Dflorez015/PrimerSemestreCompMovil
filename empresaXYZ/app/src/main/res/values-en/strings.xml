@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">empresaXYZ</string>
+    <string name="titulo">EmpresaXYZ</string>
+    <string name="tipos">Type of shoes</string>
+    <string name="sexo">Sex</string>
+    <string name="hombre">Man</string>
+    <string name="mujer">Woman</string>
+    <string name="zapatilla">Shoe</string>
+    <string name="clasico">Classic</string>
+    <string name="productos">Products</string>
+    <string name="nike">Nike</string>
+    <string name="adidas">Adidas</string>
+    <string name="puma">Puma</string>
+    <string name="nike_cantidad">amount:</string>
+    <string name="adidas_cantidad">amount:</string>
+    <string name="puma_cantidad">amount:</string>
+    <string name="calcular">Calculate amount</string>
+    <string name="numero0">0</string>
+    <string name="pesos">Price: $</string>
+    <string name="resultado">The total amount to pay is: $</string>
+</resources>
