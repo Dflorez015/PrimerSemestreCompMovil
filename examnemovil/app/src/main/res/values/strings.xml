@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">examen movil</string>
+    <string name="titulo">EmpresaXYZ</string>
+    <string name="material_manilla">Escoja el material de su manilla:</string>
+    <string name="radioButtonCuero">Cuero</string>
+    <string name="radioButtonCuerda">Cuerda</string>
+    <string name="radioButtonMartillo">Martillo</string>
+    <string name="dije_manilla">Escoja el dije de su manilla:</string>
+    <string name="tipo_manilla">Escoja el tipo de dije de su manilla:</string>
+    <string name="radioButtonOro">Oro</string>
+    <string name="radioButtonOroRosa">Oro rosado</string>
+    <string name="radioButtonPlata">Plata</string>
+    <string name="radioButtonNiquel">Niquel</string>
+    <string name="radioButtonAncla">Ancla</string>
+    <string name="cantidad_manillas">Cantidad:</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="precioTotal">Precio total:</string>
+    <string name="msnError">Por favor ingrese la cantidad que desea llevar.</string>
+    <string name="valor_unitario">Valor unitario: $</string>
+    <string name="pesos">Pesos</string>
+    <string name="dolares">Dólares</string>
+</resources>

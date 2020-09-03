@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">examen movil</string>
+    <string name="titulo">EmpresaXYZ</string>
+    <string name="material_manilla">Choose the material of your handle:</string>
+    <string name="radioButtonCuero">Leather</string>
+    <string name="radioButtonCuerda">Rope</string>
+    <string name="radioButtonMartillo">Hammer</string>
+    <string name="dije_manilla">Choose the pendant for your bracelet:</string>
+    <string name="tipo_manilla">Choose the type of pendant for your bracelet:</string>
+    <string name="radioButtonOro">Gold</string>
+    <string name="radioButtonOroRosa">Pink gold</string>
+    <string name="radioButtonPlata">Silver</string>
+    <string name="radioButtonNiquel">Nickel</string>
+    <string name="radioButtonAncla">Anchor</string>
+    <string name="cantidad_manillas">Quantity:</string>
+    <string name="btnCalcular">Calculate</string>
+    <string name="precioTotal">Total price:</string>
+    <string name="msnError">Please enter the amount you want to bring.</string>
+    <string name="valor_unitario">Unit value: $</string>
+    <string name="pesos">Pesos</string>
+    <string name="dolares">Dollars</string>
+</resources>
